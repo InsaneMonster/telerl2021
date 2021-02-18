@@ -1,0 +1,6 @@
+model,param_under_test,cw_classes,q_norm,avg_tot_reward,avg_steps,avg_embb_outages,avg_urllc_delays,avg_residual_urllc_pkts
+0,0.1,0,0,-7.654,1400.0,7.654,0.0,0.0
+0,0.2,0,0,-11.959,1400.0,11.959,0.0,0.0
+0,0.3,0,0,-22.154,1400.0,22.154,0.0,0.0
+0,0.4,0,0,-28.648,1400.0,28.648,0.0,0.0
+0,0.5,0,0,-37.187,1400.0,37.187,0.0,0.0
